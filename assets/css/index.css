@@ -1,0 +1,186 @@
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+    scroll-padding-top: 50px;
+
+}
+
+nav {
+
+    height: 50px;
+
+    background-color: #c4a26f;
+
+    color: #c0a15f;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: end;
+
+    list-style-type: none;
+
+    overflow: hidden;
+
+    position: fixed;
+
+    top: 0;
+
+    width: 100%;
+
+}
+
+nav li{
+
+ padding: 10px;
+
+}
+
+a {
+
+    text-decoration: none;
+
+    color: rgb(56, 42, 15)
+
+}
+
+
+
+a:hover{
+
+    color: #756b59;
+
+}
+section{
+
+    min-height: 480px;
+
+    background-color: #dfcfb1;
+
+    color:rgb(37, 33, 37);
+
+    padding: 10px;
+
+    border: 2px dotted #2f1749;
+
+    margin-top: 50px;
+
+}
+
+
+
+section:hover{
+
+    background-color: #cab691;
+
+}
+
+
+
+.comando-git{
+
+    padding: 5px;
+
+    font-size: 1.25rem;
+
+    border: 3px solid #8a6e3b;
+
+    background-color: #e0dad3;
+
+    color: #484848;
+
+}
+
+
+
+p{
+
+    padding: 5px;
+
+}
+
+
+
+conteudo{
+
+    margin-top: 50px;
+
+}
+
+
+
+#projetos{
+
+display: flex;
+
+align-items: center;
+
+justify-content: center;
+
+flex-wrap: wrap;
+
+}
+.projeto{
+
+    height: 300px;
+
+    width: 300px;
+
+    border: #9b7235 solid 5px;
+
+    margin: 10px;
+
+}
+
+
+
+.projeto>img{
+
+    width: 100%;
+
+}
+
+
+
+.labels span{
+
+    color: white !important;
+
+    background-color: #7a5135;
+
+    border-radius: 100px;
+
+    padding: 2px 5px;
+
+}
+
+
+
+#redes_sociais{
+
+    display:flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    flex-wrap: wrap;
+
+}
+
+
+
+.rede_social{
+    height: 300px;
+    width: 300px;
+    border: #7a5135 solid 5px;
+    margin: 10px;
+}
+
+.rede_social>img{
+    width: 100%;
+}
