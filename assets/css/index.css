@@ -12,9 +12,9 @@ nav {
 
     height: 50px;
 
-    background-color: #c4a26f;
+    background-color: #c067aa;
 
-    color: #c0a15f;
+    color: #d6a9cb;
 
     display: flex;
 
@@ -59,7 +59,7 @@ section{
 
     min-height: 480px;
 
-    background-color: #dfcfb1;
+    background-color: #cea8c4;
 
     color:rgb(37, 33, 37);
 
@@ -75,7 +75,7 @@ section{
 
 section:hover{
 
-    background-color: #cab691;
+    background-color: #c990bb;
 
 }
 
@@ -87,7 +87,7 @@ section:hover{
 
     font-size: 1.25rem;
 
-    border: 3px solid #8a6e3b;
+    border: 3px solid #b33a94;
 
     background-color: #e0dad3;
 
@@ -130,7 +130,7 @@ flex-wrap: wrap;
 
     width: 300px;
 
-    border: #9b7235 solid 5px;
+    border: #b962a4 solid 5px;
 
     margin: 10px;
 
@@ -150,7 +150,7 @@ flex-wrap: wrap;
 
     color: white !important;
 
-    background-color: #7a5135;
+    background-color: #8a3374;
 
     border-radius: 100px;
 
@@ -177,7 +177,7 @@ flex-wrap: wrap;
 .rede_social{
     height: 300px;
     width: 300px;
-    border: #7a5135 solid 5px;
+    border: #b33a94 solid 5px;
     margin: 10px;
 }
 
